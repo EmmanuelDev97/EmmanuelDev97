@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdxN2N2c201N2N4MG0xZ2VrN2hhOTZ1MWx3ZXI0MmtrZWY1ZjRxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" width="40"/>        Hello Welcome!  
 
-![presentacion](github-header-image.png)
+![presentacion](git.gif)
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white ())
@@ -23,11 +23,14 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueldev97&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldev97&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel&show_icons=true&theme=transparent&hide=prs&hide_border=true) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emmanueldev97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelDev97&show_icons=true&theme=transparent)  -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldev97&layout=compact) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=emmanueldev97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
 
 

@@ -2,11 +2,9 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEyZmplaXFwZzJqaTVhZHZieDdpdWlrcTVmOXR3amx4MGpkYXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rTEQRZEJWmMB0hNZSC/giphy.gif" width="25%" height="25%"/>
     <h1>Hello Welcome!</h1>
 </div>
-<!-- # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEyZmplaXFwZzJqaTVhZHZieDdpdWlrcTVmOXR3amx4MGpkYXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rTEQRZEJWmMB0hNZSC/giphy.gif" width="150" height="150"/>    Hello Welcome! -->
 
- 
 <!-- ![presentacion](git.gif) -->
-<img src="git.gif" alt="presentacion" width="100%" height="300">
+<!-- <img src="git.gif" alt="presentacion" width="100%" height="300"> -->
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white ())
@@ -28,6 +26,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel&show_icons=true&theme=transparent&hide=prs&hide_border=true) -->

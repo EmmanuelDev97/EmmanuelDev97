@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEyZmplaXFwZzJqaTVhZHZieDdpdWlrcTVmOXR3amx4MGpkYXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rTEQRZEJWmMB0hNZSC/giphy.gif" width="150" height="150"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEyZmplaXFwZzJqaTVhZHZieDdpdWlrcTVmOXR3amx4MGpkYXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rTEQRZEJWmMB0hNZSC/giphy.gif" width="50%" height="50%"/>
     <h1>Hello Welcome!</h1>
 </div>
 <!-- # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmEyZmplaXFwZzJqaTVhZHZieDdpdWlrcTVmOXR3amx4MGpkYXVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rTEQRZEJWmMB0hNZSC/giphy.gif" width="150" height="150"/>    Hello Welcome! -->

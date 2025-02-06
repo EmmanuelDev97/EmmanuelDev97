@@ -9,7 +9,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white ())
 
-### Hola a todos Soy Emmanuel Salcedo tengo 27 años, soy Ingeniero de Software. Apasionado por la tecnologia, los video juegos y los retos.
+### Hola ,Soy Emmanuel Salcedo tengo 27 años, soy Ingeniero de Software. Apasionado por la tecnologia, los video juegos y los retos.
 
 
 
@@ -28,6 +28,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=EmmanuelDev97&margin-w=15)](https://github.com/EmmanuelDev97) -->
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel&show_icons=true&theme=transparent&hide=prs&hide_border=true) -->

@@ -37,7 +37,7 @@
 
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelDev97&show_icons=true&theme=transparent)  -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldev97&layout=compact) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldev97&layout=compact) 
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=emmanueldev97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  -->

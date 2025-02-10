@@ -30,7 +30,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=EmmanuelDev97&margin-w=15)](https://github.com/EmmanuelDev97) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=EmmanuelDev97&margin-w=15)](https://github.com/EmmanuelDev97) 
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel&show_icons=true&theme=transparent&hide=prs&hide_border=true) -->
